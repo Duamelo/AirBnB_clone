@@ -85,4 +85,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **David Orejuela** - [daorejuela1](https://github.com/daorejuela1)
+* **David DOSSEH** - [Duamelo](https://github.com/Duamelo)
